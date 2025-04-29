@@ -1,3 +1,4 @@
+import React from "react";
 import { Link } from "react-router-dom";
 import { Search, Heart, ShoppingCart, Menu, Phone } from "lucide-react";
 import { Button } from "@/components/ui/button";
